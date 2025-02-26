@@ -32,8 +32,8 @@ import { BaseError, UserRejectedRequestError, parseEther } from "viem";
 export default function Demo(
   { title }: { title?: string } = { title: "kb test" }
 ) {
-  
-  const URL = "https://www.wikipedia.org/";
+
+  const URL = "https://lutte-caster.vercel.app/";
 
 
 
